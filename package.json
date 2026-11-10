@@ -1,0 +1,22 @@
+{
+  "name": "pw-github-repo",
+  "version": "1.0.0",
+  "description": "playwright tests",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VinayakNayak123/pw-github.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VinayakNayak123/pw-github/issues"
+  },
+  "homepage": "https://github.com/VinayakNayak123/pw-github#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.0",
+    "@types/node": "^26.6.6"
+  }
+}
